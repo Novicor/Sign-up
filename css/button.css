@@ -6,4 +6,12 @@
     line-height: 20px;
     padding: 10px 40px;
     border-radius: 20px;
+    cursor: pointer;
 }
+    .btn:hover {
+        background-color: white;
+        color: #333;
+        border: 2px solid #2555d4;
+        padding: 8px 38px;
+        box-shadow: 170px 0px 0px #2555d4;
+    }
